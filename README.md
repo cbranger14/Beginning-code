@@ -1,2 +1,2 @@
-# Soccer-Game
-This is a project focuses on the use of Classes, and automating graphics.
+# Beginning-code
+This repository is a collection of my first start to coding.
